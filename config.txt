@@ -1,5 +1,5 @@
 ﻿token =Eyf4jM1JAApj2K080qY9eZRJ6mFdlUXz 
-owner =467193057612398593 
+owner =566722673133092885 
 prefix =H
 game =#Hhelp
 stayinchannel=true
